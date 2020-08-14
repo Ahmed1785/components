@@ -9,7 +9,7 @@ const App = () => {
     <div className="ui container comments">
       <ApprovalCard>
         <CommentDetail 
-          author="Sam" 
+          author="Sams" 
           timeAgo="Today at 5:00AM" 
           commentDesc="That's Dope" 
           avatar={faker.image.avatar()}
